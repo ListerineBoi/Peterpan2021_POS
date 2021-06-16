@@ -16,7 +16,7 @@
                         
                         <div class="col">
                             <div class="card">
-                                <img src="storage/imageMenu/pngegg.png" class="card-img-top" alt="...">
+                                <img src="img/pngegg.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Input Pesanan</h5>
                                     <p class="lead">
@@ -27,7 +27,7 @@
                         </div>
                         <div class="col">
                             <div class="card">
-                                <img src="storage/imageMenu/bill.png" class="card-img-top" alt="...">
+                                <img src="img/bill.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Pembayaran</h5>
                                     <p class="lead">
@@ -38,7 +38,7 @@
                         </div>
                         <div class="col">
                             <div class="card">
-                                <img src="storage/imageMenu/paid-bill.png" class="card-img-top" alt="...">
+                                <img src="img/paid-bill.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Histori Pemesanan</h5>
                                     <p class="lead">

@@ -16,7 +16,7 @@
                         
                         <div class="col">
                             <div class="card">
-                                <img src="storage/imageMenu/paid-bill.png" class="card-img-top" alt="...">
+                                <img src="img/paid-bill.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Histori Pemesanan</h5>
                                     <p class="lead">
@@ -28,7 +28,7 @@
 
                         <div class="col">
                             <div class="card">
-                                <img src="storage/imageMenu/beban.png" class="card-img-top" alt="...">
+                                <img src="img/beban.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Input Beban</h5>
                                     <p class="lead">
@@ -39,7 +39,7 @@
                         </div>
                         <div class="col">
                             <div class="card">
-                                <img src="storage/imageMenu/bill.png" class="card-img-top" alt="...">
+                                <img src="img/bill.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Jurnal Umum</h5>
                                     <p class="lead">
@@ -50,7 +50,7 @@
                         </div>
                         <div class="col">
                             <div class="card">
-                                <img src="storage/imageMenu/bill.png" class="card-img-top" alt="...">
+                                <img src="img/bill.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Buku Besar</h5>
                                     <p class="lead">
@@ -61,7 +61,7 @@
                         </div>
                         <div class="col">
                             <div class="card">
-                                <img src="storage/imageMenu/bill.png" class="card-img-top" alt="...">
+                                <img src="img/bill.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Laporan Laba Rugi</h5>
                                     <p class="lead">
@@ -72,7 +72,7 @@
                         </div>
                         <div class="col">
                             <div class="card">
-                                <img src="storage/imageMenu/bill.png" class="card-img-top" alt="...">
+                                <img src="img/bill.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Isi Menu</h5>
                                     <p class="lead">
