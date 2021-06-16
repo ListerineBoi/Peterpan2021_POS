@@ -106,6 +106,26 @@
                                <td>{{$row['harga']}}</td>
                                <td>{{$row['des']}}</td>
                                <td>@php if($row['img']!=null) echo 'Ada';@endphp</td>
+                               <form method="post" action="{{route('Vedit')}}">
+                                        @csrf
+                                            
+                                            <div class="form-group">
+                                                <input type="hidden" name="id_item" class="form-control" value="{{$row['id_item']}}"> 
+                                            </div>
+                                                                    
+                                            <td> <button type="submit" class="btn btn-success">Edit</button>
+
+                                </form>
+                                <form method="post" action="{{route('delmenu')}}">
+                                        @csrf
+                                            
+                                            <div class="form-group">
+                                                <input type="hidden" name="id_item" class="form-control" value="{{$row['id_item']}}"> 
+                                            </div>
+                                                                    
+                                            <button type="submit" class="btn btn-danger">Delete</button></td>
+
+                                </form>
                                </tr>
                             @endforeach
                             </table>

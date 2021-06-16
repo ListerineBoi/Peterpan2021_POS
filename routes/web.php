@@ -40,3 +40,6 @@ Route::get('/labarugi', [App\Http\Controllers\JurposController::class, 'labarugi
 
 Route::get('/menu', [App\Http\Controllers\InputMenuController::class, 'index'])->name('menu');
 Route::post('/menu/add', [App\Http\Controllers\InputMenuController::class, 'create'])->name('addmenu');
+Route::post('/menu/Vedit', [App\Http\Controllers\InputMenuController::class, 'Vedit'])->name('Vedit');
+Route::post('/menu/edit', [App\Http\Controllers\InputMenuController::class, 'edit'])->name('editmenu');
+Route::post('/menu/del', [App\Http\Controllers\InputMenuController::class, 'del'])->name('delmenu');

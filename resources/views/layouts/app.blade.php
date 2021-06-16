@@ -75,6 +75,9 @@
                         <li class="nav-item active">
                         <a class="nav-link" href="{{route('labarugi')}}">Laporan Laba Rugi<span class="sr-only">(current)</span></a>
                         </li>
+                        <li class="nav-item active">
+                        <a class="nav-link" href="{{route('menu')}}">Menu Restoran<span class="sr-only">(current)</span></a>
+                        </li>
                     @endif
                     @endif
                     </ul>
