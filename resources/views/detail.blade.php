@@ -51,7 +51,7 @@
                        
                         <div class="col">
                             <div class="card">
-                                <img src="/img/ovo.png" class="card-img-top" alt="...">
+                                <img src="/img/ovo.png" width="300" height="150" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">OVO</h5>
                                     <p class="card-text">Bayar Dengan OVO</p>
@@ -62,7 +62,7 @@
                         </div>
                         <div class="col">
                             <div class="card">
-                                <img src="/img/dana.jpg" class="card-img-top" alt="...">
+                                <img src="/img/dana.jpg" width="300" height="150" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">DANA</h5>
                                     <p class="card-text">Bayar Dengan DANA</p>
@@ -73,7 +73,7 @@
                         </div>
                         <div class="col">
                             <div class="card">
-                                <img src="/img/gopay.jpg" class="card-img-top" alt="...">
+                                <img src="/img/gopay.jpg" width="300" height="150" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Gopay</h5>
                                     <p class="card-text">Bayar Dengan Gopay</p>
@@ -84,7 +84,7 @@
                         </div>
                         <div class="col">
                             <div class="card">
-                                <img src="/img/kredit.png" class="card-img-top" alt="...">
+                                <img src="/img/kredit.png" width="300" height="150" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Kredit</h5>
                                     <p class="card-text">Bayar Dengan Kartu Kredit</p>
@@ -99,7 +99,7 @@
                     <div class="row row-cols-lg-4 row-cols-md-3 row-cols-sm-2  g-2">
                     <div class="col">
                             <div class="card">
-                                <img src="/img/cash.png" class="card-img-top" alt="...">
+                                <img src="/img/cash.png"  width="300" height="150" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">Tunai</h5>
                                     <p class="card-text">Bayar Dengan Tunai</p>

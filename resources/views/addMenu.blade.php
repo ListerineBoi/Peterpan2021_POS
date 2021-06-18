@@ -80,7 +80,7 @@
         </div>
         <div class="col-md-6">
             <div class="card">
-                <div class="card-header"> <strong> Daftar Pengajuan KP </strong> </div>
+                <div class="card-header"> <strong> Daftar Menu </strong> </div>
 
                     <div class="card-body"> 
                         @if (session('status'))

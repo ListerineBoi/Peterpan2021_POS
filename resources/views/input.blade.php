@@ -42,8 +42,8 @@
                     <div class="row row-cols-lg-3 row-cols-md-3 row-cols-sm-2 g-4">
                         @foreach($menu as $rowI)
                         <div class="col">
-                            <div class="card">
-                                <img src="storage/imageMenu/{{$rowI['img']}}" class="card-img-top" alt="...">
+                            <div class="card mb-5" >
+                                <img src="storage/imageMenu/{{$rowI['img']}}" width="300" height="150" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">{{$rowI['nama']}}</h5>
                                     <p class="card-text">{{$rowI['des']}}</p>
